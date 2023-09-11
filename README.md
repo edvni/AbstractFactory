@@ -5,4 +5,4 @@ Käytä terminaalia:
 siirry src kansioon $cd src ja syötä komento:
 $ java Main Boss
 tai
-> **_NOTE:_** java Main Adidas
+`java Main Adidas`
